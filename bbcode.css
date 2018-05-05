@@ -1,13 +1,8 @@
-/*============================blackboard============================*/
-
-/*change bg color*/
 @import url('https://fonts.googleapis.com/css?family=Roboto');
-@-moz-document domain("fcps.blackboard.com") {
  body {
    background-color: #232323 !important;
  }
-}
-@-moz-document domain("fcps.blackboard.com") {
+
 /*change nav bar color*/
 #contentFrame, #schemePreview, body, .ineditmode, .topFrame, .breadcrumbs, .paneTabs, .paneTabs ul li.active, .paneTabs ul li, .wizardBody .containerWizard {
    background-color: #232323 !important;
@@ -257,4 +252,4 @@ a#courseMenu_link.comboLink {
 .side-nav{
 	background: #232323!important;
 }
-}
+
